@@ -3,7 +3,7 @@
 <div align="center">
 
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=YOUR%20NAME&fontSize=55&fontColor=ffffff&fontAlignY=40&desc=Computer%20Science%20Student&descAlignY=60&descSize=20"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=bahija%20codes&fontSize=55&fontColor=ffffff&fontAlignY=40&desc=Computer%20Science%20Student&descAlignY=60&descSize=20"
     width="100%"
   />
 
